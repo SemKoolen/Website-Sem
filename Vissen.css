@@ -1,0 +1,130 @@
+.nav a {
+    color: blue;
+	font-size: 240%;}
+	
+.nav  li{
+    display: inline;
+	padding-right: 1%;
+	position: relative;
+	left: 25px;
+    top: 24px;}
+	
+.nav  ul{	
+    display: inline;}
+	
+.info {
+	position: fixed;
+	top: 450;
+	left: 10;}
+	
+.info li{
+	font-size: 25;}
+	
+.info font {
+	font-size: 25;
+}
+
+.Body {
+	position: fixed;
+	top: 160;
+	left: 65;}	
+	
+.Body b {
+	font-size: 45;}
+	
+.Body a {
+	font-size:25;}
+	
+.pic img{
+	position: fixed;
+	top: 217;
+	right: 150;}
+
+.pagina1 img{
+	position: fixed;
+	bottom: 0;
+	right: 0;}
+	
+.landkaart{
+	position: fixed;
+	bottom: 300;
+	right: 130;}
+	
+.stranden h3{
+	position: fixed;
+	right: 330;
+	bottom: 263;
+	color: black;
+	font-size: 30;}
+	
+.stranden font{
+	position: relative;
+    left: 40;
+	color: white;}
+	
+.stranden {
+	position: fixed;
+	right: 60;
+	bottom: 10;}
+	
+.bezienswaardigheden {
+	position: fixed;
+	right: 40;
+	top: 40;
+	color: black}
+	
+.bezienswaardigheden ul{
+	display: inline-block;}
+	
+.dolphins {
+	position: fixed;
+	bottom: 15;
+	left: 15;}
+	
+.dolphins font{
+	position: relative;
+	left: 225;
+	Font-size: 40;
+	color: orange;}
+	
+a:link    {color:blue; background-color:transparent; text-decoration:underline}
+a:hover   {background-color: transparent; text-decoration:none}
+a:active  {color:orange; background-color:transparent; text-decoration:none}
+
+.pagina1 {
+    background-image: url("mambo.jpg");
+	margin: 0px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	height:100%;}
+	
+.pagina2 {
+	background-image: url("willemstad.jpg");
+	margin: 0px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	height:100%;
+	color: white;}
+	
+.pagina2 li {
+    color: white;}
+
+.pagina2 a {
+	color: white;}
+	
+.pagina3 {
+    background-image: url("XCOR2.jpg");
+	margin: 0px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	height:100%;}
+
+html,body{
+
+margin: 0px;}
